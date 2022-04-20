@@ -1,0 +1,13 @@
+nav .a {
+    text-decoration: none;
+    padding:10px;
+    color:white;
+    margin-left: 5px;
+}
+ul{
+    list-style-type: none;
+    padding:10px;
+}
+ul li{
+    padding: 10px;
+}

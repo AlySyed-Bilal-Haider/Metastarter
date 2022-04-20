@@ -1,0 +1,9 @@
+
+.text-gradient {
+    /* Set the background color */
+    background:linear-gradient(113.1deg, rgb(173, 21, 244) 3.48%, rgb(57, 172, 255) 38.5%, rgb(173, 21, 244) 60.53%, rgb(57, 172, 255) 78%);
+    /* Mask the color to the text, and remove the rest  */
+    -webkit-background-clip: text;
+    /* Make the text fill color value transparent so the masked background color comes through */
+    -webkit-text-fill-color: transparent;
+  }

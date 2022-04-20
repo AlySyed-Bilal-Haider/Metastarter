@@ -1,0 +1,12 @@
+.brandlog {
+    position: relative;
+    animation-name: example;
+    animation-duration: 3s;
+    /* animation-direction: reverse;   */
+    animation-iteration-count:infinite;
+  }
+  
+  @keyframes example {
+    0%   { left:0%;}
+    100% {  left:100%}
+  }
